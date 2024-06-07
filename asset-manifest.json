@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/globabuild/static/css/main.b64083d1.css",
+    "main.js": "/globabuild/static/js/main.5f25813c.js",
+    "static/media/horizontal-mark2.png": "/globabuild/static/media/horizontal-mark2.bdc89dfcf6567fe87120.png",
+    "static/media/portrait-01.jpg": "/globabuild/static/media/portrait-01.993ab23c3d244c4bfe34.jpg",
+    "static/media/OFB-3D-720x404.jpg": "/globabuild/static/media/OFB-3D-720x404.19f7b77faef150b99ccc.jpg",
+    "static/media/LIV-B-691x432.jpg": "/globabuild/static/media/LIV-B-691x432.bc61d79306152c3cc232.jpg",
+    "static/media/TEMA-CLINIC-DESIGN-3D1-720x404.jpg": "/globabuild/static/media/TEMA-CLINIC-DESIGN-3D1-720x404.82c32b08c28d9e7a98b6.jpg",
+    "static/media/SC-5-GOOD-1-691x432.jpg": "/globabuild/static/media/SC-5-GOOD-1-691x432.3a4c060bf169a4b8fd07.jpg",
+    "static/media/linkedin.svg": "/globabuild/static/media/linkedin.33129ba0cdc4cb48fb4e6b583ac1060e.svg",
+    "index.html": "/globabuild/index.html",
+    "static/media/youtube.svg": "/globabuild/static/media/youtube.643a7e472730ec77d8bdc252cf23edc0.svg",
+    "static/media/twitter.svg": "/globabuild/static/media/twitter.66fd1faabbfa4faee2bbfd08cd71be83.svg",
+    "static/media/close-svgrepo-com_1.svg": "/globabuild/static/media/close-svgrepo-com_1.3679f386ffd792ab51f2aac881e12083.svg",
+    "static/media/facebook.svg": "/globabuild/static/media/facebook.4c38149b469ee5615f4a02295a5f8d80.svg",
+    "static/media/burger-menu-svgrepo-com.svg": "/globabuild/static/media/burger-menu-svgrepo-com.fc12fbd678bea2ce4ec9524cbe12a170.svg",
+    "main.b64083d1.css.map": "/globabuild/static/css/main.b64083d1.css.map",
+    "main.5f25813c.js.map": "/globabuild/static/js/main.5f25813c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b64083d1.css",
+    "static/js/main.5f25813c.js"
+  ]
+}
